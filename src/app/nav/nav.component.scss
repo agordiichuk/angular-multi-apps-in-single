@@ -1,0 +1,17 @@
+.navigation {
+  margin: 0 0 20px;
+  bottom: 0;
+  list-style: none;
+  display: flex;
+  li {
+    display: inline-flex;
+    padding:10px;
+    text-align: center;
+    border: 1px solid #999;
+    background: #ccc;
+    a {
+      text-decoration: none;
+      color:#000;
+    }
+  }
+}
